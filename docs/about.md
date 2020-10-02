@@ -8,7 +8,7 @@ sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
 might include:
 
-1. Your current position
+I am currently a first-year Information Systems major student at Carnegie Mellon University. I have expereince in mobile and web-based applicatoin development, and I worked as a software development intern at Haystax in MclEan, VA for a year. 
 1. Organizations you're involved with
 1. Your personal and professional values
 1. Hobbies or fun facts
@@ -19,7 +19,8 @@ Write it in first (I) or third (Your Name Here) person.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Grace Hopper Celebration 2020 Attendee
+Carnegie Mellon Student
 
 ## Recognition
 
